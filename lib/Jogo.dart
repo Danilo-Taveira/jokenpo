@@ -76,7 +76,7 @@ class _JogoState extends State<Jogo> {
           const Padding(
             padding: EdgeInsets.only(top: 32, bottom: 16),
             child: Text(
-              'Escolha do App',
+              'Escolha do Sistema',
               textAlign: TextAlign.center,
               style: TextStyle(
                 fontSize: 20,
